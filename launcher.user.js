@@ -358,7 +358,7 @@ if (showAd) {
             method: "POST",
             cache: !1,
             crossDomain: !0,
-            data: (K + Ca || "?") + "\n154669605"
+            data: (K + Ca || "?") + "\n154669603"
         })
     }
 
@@ -418,7 +418,7 @@ if (showAd) {
             V(a);
             a = U(5);
             a.setUint8(0, 255);
-            a.setUint32(1, 154669605, !0);
+            a.setUint32(1, 154669603, true);
             V(a);
             a = U(1 + b.length);
             a.setUint8(0, 80);
